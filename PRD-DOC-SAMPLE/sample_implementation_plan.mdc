@@ -17,7 +17,7 @@ Update this rule if user requested changes to the project requirement, etc.
    - CRA + TypeScript 기반 UI 설정
 
 4. **Backend Tools Setup**  
-   - JDK 17 이상, Spring Boot 기반  
+   - JDK 21 이상, Spring Boot 기반  
    - Gradle 사용, `gradle -v`로 확인
 
 5. **Database Setup**  
